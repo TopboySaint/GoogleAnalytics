@@ -1,0 +1,211 @@
+@media screen and (max-width:430px){ 
+    .item2{
+        display: none;
+    }
+    .header{
+        padding: 5px;
+        height: 55px;
+    }
+    .header-items{
+        transform: translate(-30px, -10px);
+    }
+    .header-items img{
+        height: 42px;
+        padding: 7px 0px;
+        transform: translate(-2px, 13px);
+    }
+    .header-items a span{
+        position: static;
+        font-size: 20px;
+    }
+    .notes{
+        width:100%;
+        height: 140px;
+    }
+    .notes p{
+        line-height: 20px;
+        padding: 10px 10px 10px 10px;
+    }
+    .box:nth-child(2){
+        display: none;
+    }
+    .box:nth-child(1){
+        width: 100%;
+    }
+    .box h1{
+        font-weight: 500;
+        font-size: 20px;
+        transform: translate(-50px);
+        padding: 0px 0px 0px 0px;
+    }
+    .box p{
+        font-weight: 100;
+        font-size: 17px;
+        line-height: 25px;
+        padding: 0px 0px 0px 15px;
+        transform: translate(-50px, 20px); 
+    }
+    .two{
+        height: 2300px;
+        transform: translate(0px,-80px); 
+    }
+    .two h2{
+        font-size: 25px;
+        transform: translate(-105px, 10px); 
+
+    }
+    .twotwo{
+        height: 350px;
+        width: 100%;
+        margin: auto;
+    }
+    .twotwo p{
+        font-size: 16px;
+        line-height: 25px;
+        padding-top: 30px;
+    }
+    .twotwo h3{
+        padding-right: 10px;
+        font-weight: 600;
+        font-size: 21px;
+    }
+    .icon img{
+        transform: translate(74px,0px); 
+        
+    }
+    .icon2 img{
+        transform: translate(74px,0px); 
+    }
+    .icon3 img{
+        transform: translate(74px,-30px); 
+    }
+    .icon4 img{
+        transform: translate(74px,-5px); 
+    }
+    .icon5 img{
+        transform: translate(78px, 5px); 
+    }
+    .icon6 img{
+        transform: translate(75px, -25px); 
+    }
+    .all h2{
+        font-size: 25px;
+        transform: translate(-110px, -75px); 
+    }
+    .opera img{   
+        display: none;
+    }
+    .opera{
+        width: 95%;
+        height: 330px;
+        margin: auto;   
+        box-shadow: 1px 1px gray;
+        transform: translate(0px, -90px); 
+    }
+    .opera h3{
+        font-size: 20px;
+        transform: translate(-200px, 210px); 
+
+    }
+    .opera hr{
+        width: 100%;
+        margin: auto;  
+        transform: translate(-195px, 210px); 
+    }
+    .opera p{
+        padding: 15px 20px;
+        transform: translate(-95px, 300px); 
+    }
+    .opera2 img{   
+        display: none;
+    }
+    .opera2{
+        width: 95%;
+        height: 280px;
+        margin: auto;   
+        box-shadow: 1px 1px gray;
+        transform: translate(0px, -140px); 
+    }
+    .opera2 h3{
+        font-size: 20px;
+        transform: translate(-200px, 210px); 
+
+    }
+    .opera2 hr{
+        width: 100%;
+        margin: auto;  
+        transform: translate(-195px, 210px); 
+    }
+    .opera2 p{
+        padding: 15px 20px;
+        transform: translate(-95px, 300px); 
+    }
+    .opera3 img{   
+        display: none;
+    }
+    .opera3{
+        width: 95%;
+        height: 380px;
+        margin: auto;   
+        box-shadow: 1px 1px gray;
+        transform: translate(0px, -188px); 
+    }
+    .opera3 h3{
+        font-size: 20px;
+        transform: translate(-200px, 210px); 
+
+    }
+    .opera3 hr{
+        width: 100%;
+        margin: auto;  
+        transform: translate(-195px, 210px); 
+    }
+    .opera3 p{
+        padding: 15px 20px;
+        transform: translate(-95px, 300px); 
+    }
+    .tion h2{
+        font-size: 23px;
+        transform: translate(-100px,-240px); 
+    }
+    .over{
+        font-size: 15.5px;
+        margin: auto;
+        transform: translate(0px,-270px); 
+        padding: 20px 22px;
+        line-height: 22px;
+    }
+    .last{
+        width: 95%;
+        transform: translate(-140px, 200px); 
+    }
+    .last img{
+        transform: translate(85px, 5px); 
+    }
+    .last h3{
+        transform: translate(0px, 10px); 
+    }
+    .lopper{
+        gap: 0px;
+        flex-direction: column;
+    }
+    .add{
+        height: 450px;
+        box-shadow: 0px 0px 5px 0px gray;
+        transform: translate(0px, 610px); 
+    }
+    .add span{
+        margin-left: 30px;
+    }
+    .loop{
+        height: 65px;
+    }
+    .loop img{
+        gap: 0px;
+        transform: translate(-150px, 0px); 
+    }
+    .loop p{
+        font-size: 15px;
+        transform: translate(0px, -55px); 
+    }
+}
